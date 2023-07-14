@@ -2,6 +2,9 @@
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
+### 网址
+项目内容实际网址: https://ffxgamer.github.io/docusaurus-learning-demo/
+
 ### Installation
 
 ```
