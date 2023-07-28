@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ffxgamer.github.io/docusaurus-learning-demo/blog</id>
+    <title>ParkerPenG Blog</title>
+    <updated>2023-07-20T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://ffxgamer.github.io/docusaurus-learning-demo/blog"/>
+    <subtitle>ParkerPenG Blog</subtitle>
+    <icon>https://ffxgamer.github.io/docusaurus-learning-demo/img/march30.gif</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>https://ffxgamer.github.io/docusaurus-learning-demo/blog/welcome</id>
+        <link href="https://ffxgamer.github.io/docusaurus-learning-demo/blog/welcome"/>
+        <updated>2023-07-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[For blog's test in English version]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="for-blogs-test-in-english-version">For blog's test in English version<a href="#for-blogs-test-in-english-version" class="hash-link" aria-label="Direct link to For blog's test in English version" title="Direct link to For blog's test in English version">​</a></h2><p><img loading="lazy" alt="Docusaurus Plushie" src="/docusaurus-learning-demo/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg" width="1500" height="500" class="img_ev3q"></p><p><strong>And if you don't want a blog</strong>: just delete this directory, and use <code>blog: false</code> in your Docusaurus config.</p>]]></content>
+        <author>
+            <name>Peng WenMing</name>
+            <uri>https://github.com/ffxgamer</uri>
+        </author>
+        <category label="hello" term="hello"/>
+        <category label="docusaurus" term="docusaurus"/>
+    </entry>
+</feed>

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus_learning_demo=self.webpackChunkdocusaurus_learning_demo||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"\u6700\u8fd1\u7684","items":[{"title":"Welcome","permalink":"/docusaurus-learning-demo/zh/blog/welcome"}]}')}}]);
